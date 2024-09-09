@@ -1,0 +1,9 @@
+# Tous les fichiers avec l'extension .log seront ignorés par git
+
+*.vsidx
+
+ 
+
+# Tous les fichiers du dossier 'temp' seront ignorés par git.
+
+temp/
