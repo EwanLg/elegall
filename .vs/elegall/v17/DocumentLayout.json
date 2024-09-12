@@ -1,24 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eleve\\source\\repos\\elegall\\",
+  "WorkspaceRootPath": "C:\\Users\\eleve\\Documents\\elegall\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF67B307-5CD1-4D80-BBEC-1D4CCF9E1855}|elegall\\elegall.vbproj|c:\\users\\eleve\\source\\repos\\elegall\\elegall\\exercice 73.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{EF67B307-5CD1-4D80-BBEC-1D4CCF9E1855}|elegall\\elegall.vbproj|solutionrelative:elegall\\exercice 73.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{EF67B307-5CD1-4D80-BBEC-1D4CCF9E1855}|elegall\\elegall.vbproj|c:\\users\\eleve\\documents\\elegall\\elegall\\exercice_91.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EF67B307-5CD1-4D80-BBEC-1D4CCF9E1855}|elegall\\elegall.vbproj|solutionrelative:elegall\\exercice_91.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF67B307-5CD1-4D80-BBEC-1D4CCF9E1855}|elegall\\elegall.vbproj|c:\\users\\eleve\\documents\\elegall\\elegall\\exercice_92.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EF67B307-5CD1-4D80-BBEC-1D4CCF9E1855}|elegall\\elegall.vbproj|solutionrelative:elegall\\exercice_92.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|elegall||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF67B307-5CD1-4D80-BBEC-1D4CCF9E1855}|elegall\\elegall.vbproj|C:\\Users\\eleve\\source\\repos\\elegall\\elegall\\exercice 72.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{EF67B307-5CD1-4D80-BBEC-1D4CCF9E1855}|elegall\\elegall.vbproj|solutionrelative:elegall\\exercice 72.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{EF67B307-5CD1-4D80-BBEC-1D4CCF9E1855}|elegall\\elegall.vbproj|c:\\users\\eleve\\documents\\elegall\\elegall\\exercice_73.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EF67B307-5CD1-4D80-BBEC-1D4CCF9E1855}|elegall\\elegall.vbproj|solutionrelative:elegall\\exercice_73.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF67B307-5CD1-4D80-BBEC-1D4CCF9E1855}|elegall\\elegall.vbproj|C:\\Users\\eleve\\source\\repos\\elegall\\elegall\\exercice 71.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{EF67B307-5CD1-4D80-BBEC-1D4CCF9E1855}|elegall\\elegall.vbproj|solutionrelative:elegall\\exercice 71.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF67B307-5CD1-4D80-BBEC-1D4CCF9E1855}|elegall\\elegall.vbproj|c:\\users\\eleve\\source\\repos\\elegall\\elegall\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+      "AbsoluteMoniker": "D:0:0:{EF67B307-5CD1-4D80-BBEC-1D4CCF9E1855}|elegall\\elegall.vbproj|c:\\users\\eleve\\documents\\elegall\\elegall\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,18 +28,18 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "elegall",
-              "DocumentMoniker": "C:\\Users\\eleve\\source\\repos\\elegall\\elegall\\elegall.vbproj",
+              "DocumentMoniker": "C:\\Users\\eleve\\Documents\\elegall\\elegall\\elegall.vbproj",
               "RelativeDocumentMoniker": "elegall\\elegall.vbproj",
-              "ToolTip": "C:\\Users\\eleve\\source\\repos\\elegall\\elegall\\elegall.vbproj",
+              "ToolTip": "C:\\Users\\eleve\\Documents\\elegall\\elegall\\elegall.vbproj",
               "RelativeToolTip": "elegall\\elegall.vbproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-09T11:31:20.529Z",
+              "WhenOpened": "2024-09-12T12:26:05.919Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -53,41 +53,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Exercice 73.vb",
-              "DocumentMoniker": "C:\\Users\\eleve\\source\\repos\\elegall\\elegall\\Exercice 73.vb",
-              "RelativeDocumentMoniker": "elegall\\Exercice 73.vb",
-              "ToolTip": "C:\\Users\\eleve\\source\\repos\\elegall\\elegall\\Exercice 73.vb*",
-              "RelativeToolTip": "elegall\\Exercice 73.vb*",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvxoAAAAiAAAA",
+              "DocumentIndex": 1,
+              "Title": "Exercice_92.vb",
+              "DocumentMoniker": "C:\\Users\\eleve\\Documents\\elegall\\elegall\\Exercice_92.vb",
+              "RelativeDocumentMoniker": "elegall\\Exercice_92.vb",
+              "ToolTip": "C:\\Users\\eleve\\Documents\\elegall\\elegall\\Exercice_92.vb",
+              "RelativeToolTip": "elegall\\Exercice_92.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-09T11:42:22.504Z",
+              "WhenOpened": "2024-09-12T12:41:44.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Exercice 72.vb",
-              "DocumentMoniker": "C:\\Users\\eleve\\source\\repos\\elegall\\elegall\\Exercice 72.vb",
-              "RelativeDocumentMoniker": "elegall\\Exercice 72.vb",
-              "ToolTip": "C:\\Users\\eleve\\source\\repos\\elegall\\elegall\\Exercice 72.vb",
-              "RelativeToolTip": "elegall\\Exercice 72.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "DocumentIndex": 0,
+              "Title": "Exercice_91.vb",
+              "DocumentMoniker": "C:\\Users\\eleve\\Documents\\elegall\\elegall\\Exercice_91.vb",
+              "RelativeDocumentMoniker": "elegall\\Exercice_91.vb",
+              "ToolTip": "C:\\Users\\eleve\\Documents\\elegall\\elegall\\Exercice_91.vb*",
+              "RelativeToolTip": "elegall\\Exercice_91.vb*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-09T11:29:17.817Z",
+              "WhenOpened": "2024-09-12T12:24:01.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Exercice 71.vb",
-              "DocumentMoniker": "C:\\Users\\eleve\\source\\repos\\elegall\\elegall\\Exercice 71.vb",
-              "RelativeDocumentMoniker": "elegall\\Exercice 71.vb",
-              "ToolTip": "C:\\Users\\eleve\\source\\repos\\elegall\\elegall\\Exercice 71.vb",
-              "RelativeToolTip": "elegall\\Exercice 71.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABEAAAA",
+              "Title": "Exercice_73.vb",
+              "DocumentMoniker": "C:\\Users\\eleve\\Documents\\elegall\\elegall\\Exercice_73.vb",
+              "RelativeDocumentMoniker": "elegall\\Exercice_73.vb",
+              "ToolTip": "C:\\Users\\eleve\\Documents\\elegall\\elegall\\Exercice_73.vb",
+              "RelativeToolTip": "elegall\\Exercice_73.vb",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-09T11:17:13.835Z",
+              "WhenOpened": "2024-09-12T12:23:24.494Z",
               "EditorCaption": ""
             }
           ]

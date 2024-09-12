@@ -24,8 +24,8 @@
             TauxHoraire = Console.ReadLine()
             salaire = 39 * TauxHoraire + heuresup * (TauxHoraire * 125 / 100)
         Else
-            heuresup = heures - 44
             heuresup2 = heures - 47
+            heuresup = heures - 39 - heuresup2
             Console.WriteLine("Taux horaire ?")
             TauxHoraire = Console.ReadLine()
             salaire = 39 * TauxHoraire + heuresup * (TauxHoraire * 125 / 100) + heuresup2 * (TauxHoraire * 150 / 100)
