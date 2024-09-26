@@ -9,9 +9,8 @@
         Do
             Console.WriteLine("Note ? (entre 0 et 20, -1 pour sortir)")
             enternote = Console.ReadLine()
-            If enternote < 0 Then
-                Console.WriteLine("La note doit être entre 0 et 20")
-            ElseIf enternote > 20 Then
+            If enternote = -1 Then
+            ElseIf enternote < 0 Or enternote > 20 Then
                 Console.WriteLine("La note doit être entre 0 et 20")
             Else
                 note = note + enternote
